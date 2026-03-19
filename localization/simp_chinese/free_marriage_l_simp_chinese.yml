@@ -1,0 +1,21 @@
+﻿l_simp_chinese:
+ rule_free_marriage_same_sex_type:0 "自由婚姻：同性婚姻"
+ rule_free_marriage_same_sex_type_desc:0 "控制哪种同性婚姻被允许。"
+
+ setting_free_marriage_same_sex_both:0 "都允许"
+ setting_free_marriage_same_sex_both_desc:0 "女女婚姻与男男婚姻均被允许。"
+
+ setting_free_marriage_same_sex_yuri:0 "仅百合"
+ setting_free_marriage_same_sex_yuri_desc:0 "百合无限好(*≧︶≦))(￣▽￣* )ゞ"
+
+ setting_free_marriage_same_sex_gay:0 "仅男同性恋"
+ setting_free_marriage_same_sex_gay_desc:0 "仅允许男男婚姻。"
+
+ rule_free_marriage_religion_rule:0 "自由婚姻：宗教限制"
+ rule_free_marriage_religion_rule_desc:0 "控制宗教教义是否影响同性婚姻。"
+
+ setting_free_marriage_no_religion_restriction:0 "无宗教限制"
+ setting_free_marriage_no_religion_restriction_desc:0 "忽略宗教对同性婚姻的限制，所有角色均可进行同性婚姻。"
+
+ setting_free_marriage_religion_restriction:0 "宗教限制"
+ setting_free_marriage_religion_restriction_desc:0 "宗教教义仍然有效。只有信仰允许同性婚姻的角色才能进行同性婚姻。"

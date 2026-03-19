@@ -1,0 +1,37 @@
+free_marriage_same_sex_type = {
+
+	categories = {
+		game_modes
+	}
+
+	default = free_marriage_same_sex_both
+
+	free_marriage_same_sex_both = {
+
+	}
+
+	free_marriage_same_sex_yuri = {
+
+	}
+
+	free_marriage_same_sex_gay = {
+
+	}
+}
+
+free_marriage_religion_rule = {
+
+	categories = {
+		game_modes
+	}
+
+	default = free_marriage_no_religion_restriction
+
+	free_marriage_no_religion_restriction = {
+
+	}
+
+	free_marriage_religion_restriction = {
+
+	}
+}

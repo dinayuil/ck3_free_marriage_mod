@@ -1,0 +1,21 @@
+﻿l_english:
+ rule_free_marriage_same_sex_type:0 "Free Marriage: Same-Sex Type"
+ rule_free_marriage_same_sex_type_desc:0 "Controls which same-sex marriages are allowed."
+
+ setting_free_marriage_same_sex_both:0 "Both Allowed"
+ setting_free_marriage_same_sex_both_desc:0 "Both female-female and male-male marriages are allowed."
+
+ setting_free_marriage_same_sex_yuri:0 "Yuri Only (F/F)"
+ setting_free_marriage_same_sex_yuri_desc:0 "Yuri saikou!"
+
+ setting_free_marriage_same_sex_gay:0 "Gay Only (M/M)"
+ setting_free_marriage_same_sex_gay_desc:0 "Only male-male marriages are allowed."
+
+ rule_free_marriage_religion_rule:0 "Free Marriage: Religion"
+ rule_free_marriage_religion_rule_desc:0 "Controls whether faith doctrine affects same-sex marriage."
+
+ setting_free_marriage_no_religion_restriction:0 "No Religion Restriction"
+ setting_free_marriage_no_religion_restriction_desc:0 "Faith doctrine is ignored. All characters may enter same-sex marriage."
+
+ setting_free_marriage_religion_restriction:0 "Religion Restriction"
+ setting_free_marriage_religion_restriction_desc:0 "Faith doctrine still applies. Only characters whose faith permits it may enter same-sex marriage."
