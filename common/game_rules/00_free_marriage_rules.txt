@@ -1,4 +1,4 @@
-free_marriage_same_sex_type = {
+﻿free_marriage_same_sex_type = {
 
 	categories = {
 		game_modes
