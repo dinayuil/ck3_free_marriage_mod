@@ -22,6 +22,9 @@
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
 
+# vscode workspace
+*.code-workspace
+
 # OS junk
 Thumbs.db
 .DS_Store
